@@ -1,0 +1,37 @@
+h2{
+    color: #fea500;
+    font-style: oblique;
+}
+
+#page{
+    background-color: #eeeeee;
+
+}
+
+li{
+    text-align: right;
+    border-radius: 50px;
+    display: inline;
+    background-color: #fea500;
+
+}
+
+#content{
+    background-color: white;
+    border-radius: 20px;
+}
+
+ul{
+    position: absolute;
+    top: 20px;
+    left: 600px;
+}
+
+a.white{
+    color: white;
+}
+
+
+
+
+
